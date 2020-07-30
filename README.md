@@ -2,7 +2,7 @@
 
 Purpose of the this hands-on training is to give a basic understanding of writing Python application.
 
-![REST API Methods](./pic.png)
+![YouTubeDownloader](./pic.png)
 
 ## Learning Outcomes
 
@@ -37,4 +37,3 @@ At the end of the this hands-on training, you will be able to;
 - Install `pip3 install moviepy`.
 
 
-# YouTube-Music-Downloader-and-Converter-Application-Python-workshop
