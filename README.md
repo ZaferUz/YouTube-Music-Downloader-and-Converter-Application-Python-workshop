@@ -1,4 +1,4 @@
-# YouTube Music Downloader and Converter by using Python
+# Creating a YouTube Music Downloader and Converter by using Python
 
 Purpose of the this hands-on training is to give a basic understanding of writing Python application.
 
